@@ -1,0 +1,39 @@
+
+#form_container
+{
+	padding:15px 15px;
+	margin-top:15px;
+	/* background: rgba(132, 184, 233, 0.5);	 */
+	color:#fff;
+}
+#send:hover{
+    background-color: rgb(235, 100, 91);
+    border: 3px solid rgb(153, 0, 0)
+}
+#send{
+    border: 3px solid rgb(235, 100, 91);
+}
+
+body
+{
+	/* background-image: url("images/stduio-2035349_1280.jpg"); */
+	background-size: cover;
+	background-repeat:no-repeat;
+
+}
+.upload-btn-wrapper 
+{
+  position: relative;
+  overflow: hidden;
+  display: inline-block;
+}
+
+.upload-btn-wrapper input[type=file] 
+{
+  font-size: 100px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  opacity: 0;
+}
+

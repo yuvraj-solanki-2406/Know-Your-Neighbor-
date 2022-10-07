@@ -1,0 +1,8 @@
+.header{
+  border:1px solid red;
+  background-color: aquamarine;
+}
+
+.header h1{
+  text-align: center;
+}
